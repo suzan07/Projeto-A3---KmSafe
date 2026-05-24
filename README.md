@@ -7,3 +7,6 @@ Maria Luiza Fonseca da Costa - RA: 1282616195
 Pedro Arthur Gomes Targino - RA: 12825131616
 Suzan Luany de Oliveira Nascimento - RA: 12825132520
 Zidane de Brito Pegado - RA: 12826133273
+
+Esboço do protótipo:
+ https://www.figma.com/make/WuUXDXwptWg2fS2QCHz5AH/KmSafe-Ride-Sharing-App?t=WIrmEUvv3NARSB0Q-1
