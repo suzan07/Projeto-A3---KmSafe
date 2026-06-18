@@ -62,19 +62,11 @@ O KmSafe é um protótipo de alta fidelidade para uma plataforma de mobilidade u
 
 
 
--HTML5: Estrutura semântica das interfaces.
+-HTML5 e Tailwind CSS: Estrutura e estilização moderna, responsiva e focada na experiência do usuário.
 
 
 
--Tailwind CSS: Estilização moderna e responsiva.
-
-
-
--JavaScript (Vanilla): Lógica de navegação e interatividade.
-
-
-
--Google Fonts (Plus Jakarta Sans): Tipografia profissional.
+-JavaScript (Vanilla): Lógica de navegação entre telas, animações de biometria e interatividade do protótipo.
 
 *Como Visualizar o Projeto
 
