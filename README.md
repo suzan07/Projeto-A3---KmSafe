@@ -11,6 +11,8 @@ Zidane de Brito Pegado - RA: 12826133273
 Esboço do protótipo:
  https://www.figma.com/make/WuUXDXwptWg2fS2QCHz5AH/KmSafe-Ride-Sharing-App?t=WIrmEUvv3NARSB0Q-1
 KmSafe - Mobilidade com Segurança e Confiança
+Link do site:
+https://pedroagt11.github.io/KmSafe/
 
 O KmSafe é um protótipo de alta fidelidade para uma plataforma de mobilidade urbana que prioriza a segurança. O projeto apresenta a jornada completa para passageiros e motoristas, com foco em interfaces intuitivas e fluxos protegidos.
 
