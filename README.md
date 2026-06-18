@@ -14,84 +14,84 @@ KmSafe - Mobilidade com Segurança e Confiança
 
 O KmSafe é um protótipo de alta fidelidade para uma plataforma de mobilidade urbana que prioriza a segurança. O projeto apresenta a jornada completa para passageiros e motoristas, com foco em interfaces intuitivas e fluxos protegidos.
 
-Funcionalidades Principais
+**Funcionalidades Principais
 
-Para Passageiros
-
-
-
-
-
-Cadastro e Login: Fluxo simplificado para novos usuários e acesso rápido para usuários registrados.
-
-
-
-Solicitação de Viagem: Interface para definição de origem e destino.
-
-
-
-Busca de Motoristas: Sistema de busca e confirmação de motoristas verificados.
-
-
-
-Acompanhamento em Tempo Real: Tela de viagem com informações críticas do trajeto.
-
-
-
-Histórico de Viagens: Registro detalhado das corridas realizadas.
-
-Para Motoristas
+*Para Passageiros
 
 
 
 
 
-Segurança Biométrica: Reconhecimento facial obrigatório no login e na conclusão de viagens.
+-Cadastro e Login: Fluxo simplificado para novos usuários e acesso rápido para usuários registrados.
 
 
 
-Gestão de Corridas: Dashboard para aceitação de chamadas e visualização de ganhos.
+-Solicitação de Viagem: Interface para definição de origem e destino.
 
 
 
-Histórico de Ganhos: Acompanhamento de performance e faturamento.
-
-Tecnologias Utilizadas
+-Busca de Motoristas: Sistema de busca e confirmação de motoristas verificados.
 
 
 
-
-
-HTML5: Estrutura semântica das interfaces.
-
-
-
-Tailwind CSS: Estilização moderna e responsiva.
+-Acompanhamento em Tempo Real: Tela de viagem com informações críticas do trajeto.
 
 
 
-JavaScript (Vanilla): Lógica de navegação e interatividade.
+-Histórico de Viagens: Registro detalhado das corridas realizadas.
 
-
-
-Google Fonts (Plus Jakarta Sans): Tipografia profissional.
-
-Como Visualizar o Projeto
+*Para Motoristas
 
 
 
 
 
-Faça o download dos arquivos do repositório.
+-Segurança Biométrica: Reconhecimento facial obrigatório no login e na conclusão de viagens.
 
 
 
-Abra o arquivo index.html em um navegador moderno (Chrome, Edge, Safari ou Firefox).
+-Gestão de Corridas: Dashboard para aceitação de chamadas e visualização de ganhos.
 
 
 
-Utilize os botões interativos para navegar pelos fluxos.
+-Histórico de Ganhos: Acompanhamento de performance e faturamento.
 
-Segurança
+*Tecnologias Utilizadas
 
-O diferencial do KmSafe é sua camada de proteção. O fluxo de reconhecimento facial utiliza validações visuais para garantir a identidade do condutor e transmitir confiança ao passageiro.
+
+
+
+
+-HTML5: Estrutura semântica das interfaces.
+
+
+
+-Tailwind CSS: Estilização moderna e responsiva.
+
+
+
+-JavaScript (Vanilla): Lógica de navegação e interatividade.
+
+
+
+-Google Fonts (Plus Jakarta Sans): Tipografia profissional.
+
+*Como Visualizar o Projeto
+
+
+
+
+
+-Faça o download dos arquivos do repositório.
+
+
+
+-Abra o arquivo index.html em um navegador moderno (Chrome, Edge, Safari ou Firefox).
+
+
+
+-Utilize os botões interativos para navegar pelos fluxos.
+
+*Segurança
+
+-O diferencial do KmSafe é sua camada de proteção. O fluxo de reconhecimento facial utiliza validações visuais para garantir a identidade do condutor e transmitir confiança ao passageiro.
